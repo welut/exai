@@ -166,6 +166,12 @@
        <copy toFile="${public.deps.dir}/appnextsdkcore.jar" file="${lib.dir}/kangris/AppnextAndroidSDKCore.jar" />
        <copy toFile="${public.deps.dir}/appnextsdknative.jar" file="${lib.dir}/kangris/AppnextAndroidSDKNativeAds.jar" />
        <copy toFile="${public.deps.dir}/AudienceNetwork.jar" file="${lib.dir}/kangris/audience-network-sdk-6.2.0.jar" />
+       <copy toFile="${public.deps.dir}/play-services-ads.jar" file="${lib.dir}/kangris/play-services-ads.jar" />
+       <copy toFile="${public.deps.dir}/play-services-ads-base.jar" file="${lib.dir}/kangris/play-services-ads-base.jar" />
+       <copy toFile="${public.deps.dir}/play-services-ads-identifier.jar" file="${lib.dir}/kangris/play-services-ads-identifier.jar" />
+       <copy toFile="${public.deps.dir}/play-services-ads-lite.jar" file="${lib.dir}/kangris/play-services-ads-lite.jar" />
+       <copy toFile="${public.deps.dir}/play-services-basement.jar" file="${lib.dir}/kangris/play-services-basement.jar" />
+       <copy toFile="${public.deps.dir}/play-services-gass.jar" file="${lib.dir}/kangris/play-services-gass.jar" />
     <!-- BEGIN Android Support Libraries -->
     <copy todir="${public.deps.dir}/">
       <fileset dir="${support.dir}/" includes="*.aar,*.jar" excludes="testing-support-R-classes.jar" />
