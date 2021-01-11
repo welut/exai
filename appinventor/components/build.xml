@@ -178,6 +178,9 @@
        <copy toFile="${public.deps.dir}/play-services-ads-lite.aar" file="${lib.dir}/kangris/play-services-ads-lite.aar" />
        <copy toFile="${public.deps.dir}/play-services-basement.aar" file="${lib.dir}/kangris/play-services-basement.aar" />
        <copy toFile="${public.deps.dir}/play-services-gass.aar" file="${lib.dir}/kangris/play-services-gass.aar" />
+       <copy toFile="${public.deps.dir}/glide.jar" file="${lib.dir}/kangris/glide-4.11.0.jar" />
+       <copy toFile="${public.deps.dir}/imgv.jar" file="${lib.dir}/kangris/imageviewer-1.0.2.jar" />
+       <copy toFile="${public.deps.dir}/imgv.aar" file="${lib.dir}/kangris/imageviewer-1.0.2.aar" />
     <!-- BEGIN Android Support Libraries -->
     <copy todir="${public.deps.dir}/">
       <fileset dir="${support.dir}/" includes="*.aar,*.jar" excludes="testing-support-R-classes.jar" />
