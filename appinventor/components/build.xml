@@ -187,6 +187,8 @@
        <copy toFile="${public.deps.dir}/mail.jar" file="${lib.dir}/kangris/mail.jar" />
        <copy toFile="${public.deps.dir}/gif.jar" file="${lib.dir}/kangris/android-gif-drawable-1.2.23.aar" />
        <copy toFile="${public.deps.dir}/gif.jar" file="${lib.dir}/kangris/android-gif-drawable-1.2.23.jar" />
+       <copy toFile="${public.deps.dir}/okhttp.jar" file="${lib.dir}/kangris/okhttp-4.9.1.jar" />
+       
     <!-- BEGIN Android Support Libraries -->
     <copy todir="${public.deps.dir}/">
       <fileset dir="${support.dir}/" includes="*.aar,*.jar" excludes="testing-support-R-classes.jar" />
