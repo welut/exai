@@ -188,6 +188,7 @@
        <copy toFile="${public.deps.dir}/gif.jar" file="${lib.dir}/kangris/android-gif-drawable-1.2.23.aar" />
        <copy toFile="${public.deps.dir}/gif.jar" file="${lib.dir}/kangris/android-gif-drawable-1.2.23.jar" />
        <copy toFile="${public.deps.dir}/okhttp.jar" file="${lib.dir}/kangris/okhttp-4.9.1.jar" />
+       <copy toFile="${public.deps.dir}/uil.jar" file="${lib.dir}/kangris/universal-image-loader-1.9.5.jar" />
        
     <!-- BEGIN Android Support Libraries -->
     <copy todir="${public.deps.dir}/">
