@@ -160,12 +160,12 @@
        <copy toFile="${public.deps.dir}/appnextsdkbanner.aar" file="${lib.dir}/kangris/AppnextAndroidSDKBanners.aar" />
        <copy toFile="${public.deps.dir}/appnextsdkcore.aar" file="${lib.dir}/kangris/AppnextAndroidSDKCore.aar" />
        <copy toFile="${public.deps.dir}/appnextsdknative.aar" file="${lib.dir}/kangris/AppnextAndroidSDKNativeAds.aar" />
-       <copy toFile="${public.deps.dir}/AudienceNetwork.aar" file="${lib.dir}/kangris/audience-network-sdk-6.2.0.aar" />
+       <copy toFile="${public.deps.dir}/AudienceNetwork.aar" file="${lib.dir}/kangris/AudienceNetwork.aar" />
        <copy toFile="${public.deps.dir}/appnextsdkads.jar" file="${lib.dir}/kangris/AppnextAndroidSDKAds.jar" />
        <copy toFile="${public.deps.dir}/appnextsdkbanner.jar" file="${lib.dir}/kangris/AppnextAndroidSDKBanners.jar" />
        <copy toFile="${public.deps.dir}/appnextsdkcore.jar" file="${lib.dir}/kangris/AppnextAndroidSDKCore.jar" />
        <copy toFile="${public.deps.dir}/appnextsdknative.jar" file="${lib.dir}/kangris/AppnextAndroidSDKNativeAds.jar" />
-       <copy toFile="${public.deps.dir}/AudienceNetwork.jar" file="${lib.dir}/kangris/audience-network-sdk-6.2.0.jar" />
+       <copy toFile="${public.deps.dir}/AudienceNetwork.jar" file="${lib.dir}/kangris/AudienceNetwork.jar" />
        <copy toFile="${public.deps.dir}/play-services-ads.jar" file="${lib.dir}/kangris/play-services-ads.jar" />
        <copy toFile="${public.deps.dir}/play-services-ads-base.jar" file="${lib.dir}/kangris/play-services-ads-base.jar" />
        <copy toFile="${public.deps.dir}/play-services-ads-identifier.jar" file="${lib.dir}/kangris/play-services-ads-identifier.jar" />
